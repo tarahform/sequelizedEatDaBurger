@@ -1,4 +1,4 @@
-USE nd7zp542ak0cmaft;
+USE comh9k12io41ney7;
 
 CREATE TABLE burgers
 (
